@@ -9,5 +9,4 @@
 
  ## Class Resources Folder:
 
- > This folder contains the Demo code that will be supplied in order to kickstart the class projects. Because this package/Compiler is simply augmenting base Javascript, it will take me WAY too long to code out  > everything I'll need my self. Also this instructor most likely won't show anything not relating to the lessons in order to keep things moving smoothly. The Demo Code Contained here will be the SOURCE CODE
- > only. I will move a copy into the proper lesson folder for my own use. 
+ > This folder contains the Demo code that will be supplied in order to kickstart the class projects. Because this package/Compiler is simply augmenting base Javascript, it will take me WAY too long to code out everything I'll need my self. Also this instructor most likely won't show anything not relating to the lessons in order to keep things moving smoothly. The Demo Code Contained here will be the SOURCE CODE only. I will move a copy into the proper lesson folder for my own use. 
