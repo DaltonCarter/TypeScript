@@ -5,6 +5,11 @@ Core types:
 Number: Unlike C++ this encompasses ALL number types.
 String: This is text using all three types of quotes including `` for temerate literals
 Boolean: Obviously this is djust True or false as always. There is no Truthy or Falsy.
+Object: Your basic Javascript object, can be more specific
+Array: Any Javascript array is allowed and can be as flexible, or strict as you want.
+Tuples: This is a fixed type and length array added by typescript.
+Enums: enum {NEW, OLD} this is added by typescript, gives automatically enumerated global constant identifiers.
+Any:  This type is the most flexible, and lets you store ANYTHING in the object.
 
 
 You will need to run TSC *Filename*  to compile the Typescript file into a JS file so that the app can run.
