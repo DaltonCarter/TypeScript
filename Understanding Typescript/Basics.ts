@@ -11,6 +11,8 @@ Tuples: This is a fixed type and length array added by typescript.
 Enums: enum {NEW, OLD} this is added by typescript, gives automatically enumerated global constant identifiers.
 Any:  This type is the most flexible, and lets you store ANYTHING in the object.
 
+Void: A return type that is present when a function does not return anything.
+
 
 You will need to run TSC *Filename*  to compile the Typescript file into a JS file so that the app can run.
 
