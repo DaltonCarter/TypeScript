@@ -2,3 +2,4 @@ Zips
 **/node_modules
 *.js
 **/tsconfig.json
+**/*dist
